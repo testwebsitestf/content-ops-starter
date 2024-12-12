@@ -738,7 +738,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Formulaire de contact
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
